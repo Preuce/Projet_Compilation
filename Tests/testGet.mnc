@@ -1,5 +1,0 @@
-int PARAM = 5;
-
-int f0(){
-    return PARAM+3;
-}
